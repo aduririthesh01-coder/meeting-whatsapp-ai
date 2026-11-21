@@ -7,7 +7,11 @@ export default function Home() {
       <div style={{marginTop: '40px', padding: '30px', background: 'white', borderRadius: '10px', maxWidth: '500px', margin: '40px auto'}}>
         <h2>Book a Meeting</h2>
         <p>WhatsApp lo "Book meeting" ani message cheyyi</p>
-        <a href="https://wa.me/91XXXXXXXXXX" target="_blank" style={{display: 'inline-block', padding: '12px 24px', background: '#25D366', color: 'white', textDecoration: 'none', borderRadius: '8px', fontSize: '16px'}}>
+        <a 
+          href="https://wa.me/916302528979" 
+          target="_blank" 
+          style={{display: 'inline-block', padding: '12px 24px', background: '#25D366', color: 'white', textDecoration: 'none', borderRadius: '8px', fontWeight: 'bold'}}
+        >
           Chat on WhatsApp
         </a>
       </div>
